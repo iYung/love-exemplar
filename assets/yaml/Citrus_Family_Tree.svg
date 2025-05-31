@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="-602 98 1843 1003" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css">
+<style type="text/css"><![CDATA[
+line{
+stroke-dasharray:6,2!important;
+stroke-linecap="round";
+}
+]]></style>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="140" y1="140" x2="-140" y2="980"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="20" y="100" width="240" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="20" y="100" width="240" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="123.739">
+      <tspan x="140" y="123.739">Citron</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="280" y="100" width="240" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="100" width="240" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="123.739">
+      <tspan x="400" y="123.739">Mandarin</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="540" y="100" width="240" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="540" y="100" width="240" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="123.739">
+      <tspan x="660" y="123.739">Papeda</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="800" y="100" width="240" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="800" y="100" width="240" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="920" y="123.739">
+      <tspan x="920" y="123.739">Pomelo</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="700" y="480" width="63.8" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="700" y="480" width="63.8" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="731.9" y="495.978">
+      <tspan x="731.9" y="495.978">Sweet</tspan>
+      <tspan x="731.9" y="511.5">Orange</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="250" y1="400" x2="731.9" y2="480"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="731.9" y2="480"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="780" y="700" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="780" y="700" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="820" y="723.739">
+      <tspan x="820" y="723.739">Grapefruit</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="916.379" y1="141.001" x2="820" y2="700"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="731.9" y1="520" x2="820" y2="700"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="140" y="360" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="360" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="375.978">
+      <tspan x="170" y="375.978">Bitter</tspan>
+      <tspan x="170" y="391.5">Orange</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="170" y2="360"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="170" y2="360"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="140" y1="140" x2="70" y2="780"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="170" y1="400" x2="70" y2="780"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="620" y="580" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="620" y="580" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="603.739">
+      <tspan x="660" y="603.739">Clementine</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="731.9" y1="520" x2="660" y2="580"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="660" y2="580"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="540" y="580" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="540" y="580" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="570" y="603.739">
+      <tspan x="570" y="603.739">Tangor</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="570" y2="580"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="731.9" y1="520" x2="570" y2="580"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="620" y="260" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="620" y="260" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="650" y="275.978">
+      <tspan x="650" y="275.978">Ichang</tspan>
+      <tspan x="650" y="291.5">Papeda</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="660" y1="140" x2="650" y2="260"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="640" y="480" width="40" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="640" y="480" width="40" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="503.739">
+      <tspan x="660" y="503.739">Yuzu</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="650" y1="300" x2="660" y2="480"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="660" y2="480"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-600" y="440" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-600" y="440" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-570" y="455.9">
+      <tspan x="-570" y="455.9">Key</tspan>
+      <tspan x="-570" y="471.9">Lime</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-570" y1="400" x2="-570" y2="440"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-520" y="560" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-520" y="560" width="100" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-470" y="583.9">
+      <tspan x="-470" y="583.9">Limequat</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-240" y="100" width="240" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-240" y="100" width="240" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-120" y="123.9">
+      <tspan x="-120" y="123.9">Kumquat</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-570" y1="480" x2="-470" y2="560"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-470" y1="560" x2="-120" y2="140"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="300" y="360" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="300" y="360" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="375.9">
+      <tspan x="330" y="375.9">Sweet</tspan>
+      <tspan x="330" y="391.9">Limetta</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="140" y="1060" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="140" y="1060" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="1075.9">
+      <tspan x="180" y="1075.9">Bergamot</tspan>
+      <tspan x="180" y="1091.9">Orange</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="180" y1="1060" x2="330" y2="400"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="170" y1="400" x2="180" y2="1060"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="440" y="900" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="440" y="900" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="470" y="923.9">
+      <tspan x="470" y="923.9">Rangpur</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="470" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="470" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-600" y="560" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-600" y="560" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-570" y="575.9">
+      <tspan x="-570" y="575.9">Persian</tspan>
+      <tspan x="-570" y="591.9">Lime</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-570" y1="480" x2="-570" y2="560"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="140" y1="140" x2="-570" y2="560"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="520" y="900" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="900" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="550" y="923.739">
+      <tspan x="550" y="923.739">Ugli Fruit</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="170" y1="400" x2="550" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="820" y1="740" x2="550" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="460" y="680" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="680" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="703.739">
+      <tspan x="500" y="703.739">Tangerine</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="500" y1="720" x2="550" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="760" y="900" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="760" y="900" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="790" y="923.739">
+      <tspan x="790" y="923.739">Orangelo</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="820" y1="740" x2="790" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="731.9" y1="520" x2="790" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="500" y2="680"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="220" y="360" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="220" y="360" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250" y="383.739">
+      <tspan x="250" y="383.739">Ponkan</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="250" y2="360"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="680" y="900" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="680" y="900" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="710" y="923.739">
+      <tspan x="710" y="923.739">Kiyomi</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="240" y="1060" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="1060" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="270" y="1083.74">
+      <tspan x="270" y="1083.74">Dekopon</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="710" y1="940" x2="270" y2="1060"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="250" y1="400" x2="270" y2="1060"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="731.9" y1="520" x2="710" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-70" y1="500" x2="710" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="1020" y="360" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1020" y="360" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1050" y="375.9">
+      <tspan x="1050" y="375.9">Ichang</tspan>
+      <tspan x="1050" y="391.9">Lemon</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="650" y1="300" x2="1050" y2="360"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="1050" y2="360"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-180" y="980" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-180" y="980" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-140" y="995.9">
+      <tspan x="-140" y="995.9">Ponderosa</tspan>
+      <tspan x="-140" y="1011.9">Lemon</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-80" y="980" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-80" y="980" width="80" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-40" y="995.9">
+      <tspan x="-40" y="995.9">Florentine</tspan>
+      <tspan x="-40" y="1011.9">Citron</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="-140" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="-40" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="140" y1="140" x2="-40" y2="980"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="60" y="1060" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="1060" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="1083.9">
+      <tspan x="90" y="1083.9">Bizzaria</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-40" y1="1020" x2="90" y2="1060"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="170" y1="400" x2="90" y2="1060"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="40" y="780" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="780" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="803.739">
+      <tspan x="70" y="803.739">Lemon</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="820" y1="740" x2="980" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="820" y1="740" x2="880" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="880" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="980" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="940" y="900" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="940" y="900" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="980" y="923.739">
+      <tspan x="980" y="923.739">Melogold</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="840" y="900" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="840" y="900" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="880" y="923.739">
+      <tspan x="880" y="923.739">Oroblanco</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="360" y="900" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="900" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="390" y="915.9">
+      <tspan x="390" y="915.9">Meyer</tspan>
+      <tspan x="390" y="931.9">Lemon</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="390" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="390" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-260" y="980" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-260" y="980" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-230" y="995.978">
+      <tspan x="-230" y="995.978">Rough</tspan>
+      <tspan x="-230" y="1011.5">Lemon</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="-230" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="140" y1="140" x2="-230" y2="980"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-600" y="300" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-600" y="300" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-570" y="315.9">
+      <tspan x="-570" y="315.9">Kaffir</tspan>
+      <tspan x="-570" y="331.9">Lime</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-600" y="360" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-600" y="360" width="60" height="40"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-570" y="383.9">
+      <tspan x="-570" y="383.9">Biasong</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="660" y1="140" x2="-570" y2="300"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="660" y1="140" x2="-570" y2="360"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="140" y1="140" x2="-570" y2="440"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="1040" y="900" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1040" y="900" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1090" y="923.739">
+      <tspan x="1090" y="923.739">Citrangequat</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-200" y="580" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-200" y="580" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-150" y="603.739">
+      <tspan x="-150" y="603.739">Orangequat</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-360" y="980" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-360" y="980" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-320" y="1003.74">
+      <tspan x="-320" y="1003.74">Calamondin</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-520" y="720" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-520" y="720" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-470" y="743.739">
+      <tspan x="-470" y="743.739">Procimequat</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-460" y="980" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-460" y="980" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-420" y="1003.74">
+      <tspan x="-420" y="1003.74">Sunquat</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-560" y="980" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-560" y="980" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-520" y="1003.74">
+      <tspan x="-520" y="1003.74">Yuzuquat</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="500" y1="720" x2="-320" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-320" y1="980" x2="-120" y2="140"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="1100" y="600" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1100" y="600" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1150" y="615.978">
+      <tspan x="1150" y="615.978">Trifoliate</tspan>
+      <tspan x="1150" y="631.5">Orange</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="1150" y1="640" x2="1090" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="731.9" y1="520" x2="1090" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-120" y="460" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-120" y="460" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-70" y="475.978">
+      <tspan x="-70" y="475.978">Satsuma</tspan>
+      <tspan x="-70" y="491.5">Mandarin</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-150" y1="580" x2="-70" y2="500"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-120" y1="140" x2="-150" y2="580"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-470" y1="600" x2="-470" y2="720"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-120" y1="140" x2="-470" y2="720"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="-420" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-120" y1="140" x2="-420" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="-120" y1="140" x2="-520" y2="980"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="660" y1="520" x2="-520" y2="980"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="1160" y="900" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1160" y="900" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1200" y="923.739">
+      <tspan x="1200" y="923.739">Citrumelo</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="820" y1="740" x2="1200" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="1150" y1="640" x2="1200" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="600" y="900" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="600" y="900" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="630" y="915.978">
+      <tspan x="630" y="915.978">Imperial</tspan>
+      <tspan x="630" y="931.5">Lemon</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="70" y1="820" x2="630" y2="900"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="820" y1="740" x2="630" y2="900"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="1100" y="240" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1100" y="240" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1150" y="263.739">
+      <tspan x="1150" y="263.739">Amanatsu</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="1150" y2="240"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="780" y="480" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="780" y="480" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="810" y="503.739">
+      <tspan x="810" y="503.739">Daidai</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="810" y2="480"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="810" y2="480"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="1060" y="300" width="80" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1060" y="300" width="80" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1100" y="315.978">
+      <tspan x="1100" y="315.978">Hassaku</tspan>
+      <tspan x="1100" y="331.5">Orange</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="1100" y2="300"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="1100" y2="300"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-120" y="300" width="100" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-120" y="300" width="100" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-70" y="315.978">
+      <tspan x="-70" y="315.978">Mediterranean</tspan>
+      <tspan x="-70" y="331.5">Mandarin</tspan>
+    </text>
+  </g>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="560" y="680" width="60" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="560" y="680" width="60" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="590" y="703.739">
+      <tspan x="590" y="703.739">Kinnow</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="590" y1="680" x2="570" y2="620"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="590" y1="680" x2="-70" y2="340"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="-70" y2="300"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="-70" y2="460"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="250" y1="360" x2="920" y2="140"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="330" y1="360" x2="400" y2="140"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="330" y2="360"/>
+  <g>
+    <rect ry="17" style="fill: #f15f74" x="-120" y="380" width="94.375" height="40"/>
+    <rect ry="17" style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-120" y="380" width="94.375" height="40"/>
+    <text font-size="12.4178" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-72.8125" y="395.978">
+      <tspan x="-72.8125" y="395.978">Willowleaf</tspan>
+      <tspan x="-72.8125" y="411.5">Mandarin</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="400" y1="140" x2="-72.8125" y2="380"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 12; stroke: #000000" x1="920" y1="140" x2="-72.8125" y2="380"/>
+</svg>
