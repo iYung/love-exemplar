@@ -1,9 +1,15 @@
 ---@meta
+---@class Camera
+---@field x number
+---@field y number
 
 ---@class Drawer
+---@field camera Camera
 local Drawer = {}
 
 Drawer.jobs = {}
+
+Drawer.camera = { x = 0, y = 0 }
 
 function Drawer.clear()
     Drawer.jobs = {}
@@ -17,7 +23,7 @@ end
 ---@param sy? number
 ---@param shader? love.Shader
 ---@param shaderParams? table
-function Drawer.add(height, sprite, x, y, sx, sy, shader, shaderParams)
+function Drawer:add(height, sprite, x, y, sx, sy, shader, shaderParams)
     if Drawer.jobs[height] == nil then
         Drawer.jobs[height] = {}
     end
@@ -25,8 +31,8 @@ function Drawer.add(height, sprite, x, y, sx, sy, shader, shaderParams)
     local scaleY = sy or 1.0
     table.insert(Drawer.jobs[height], {
         sprite = sprite,
-        x = x,
-        y = y,
+        x = x - self.camera.x,
+        y = y - self.camera.y,
         sx = scaleX,
         sy = scaleY,
         shader = shader,
@@ -39,7 +45,7 @@ end
 ---@param x number
 ---@param y number
 ---@param color? table
-function Drawer.addText(height, text, x, y, color, sx, sy)
+function Drawer:addText(height, text, x, y, color, sx, sy)
     if Drawer.jobs[height] == nil then
         Drawer.jobs[height] = {}
     end
@@ -53,7 +59,7 @@ function Drawer.addText(height, text, x, y, color, sx, sy)
     })
 end
 
-function Drawer.draw()
+function Drawer:draw()
     local keys = {}
     for k, _ in pairs(Drawer.jobs) do  -- _ is used to discard the value
         table.insert(keys, k)
