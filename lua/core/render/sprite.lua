@@ -39,7 +39,7 @@ end
 ---@param sx? number
 ---@param sy? number
 function Sprite:draw(h, x, y, sx, sy)
-  self.drawer.add(h, self.image, x, y, sx, sy, self.shader, self.shaderParams)
+  self.drawer:add(h, self.image, x, y, sx, sy, self.shader, self.shaderParams)
   if self.drawAlso ~= nil then
     self:drawAlso(h, x, y, sx, sy)
   end
