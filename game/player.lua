@@ -7,10 +7,10 @@ local Player = {}
 Player.__index = Player
 
 function Player.new(x, y)
-    local self       = setmetatable({}, Player)
-    self.sprite      = Sprite.new(x, y, 32, 48)
-    self.sprite.color = { 0.9, 0.3, 0.3, 1 }
-    self.input       = Input.new({
+    local self        = setmetatable({}, Player)
+    self.sprite       = Sprite.new(x, y, 32, 48)
+    self.sprite.image = love.graphics.newImage("assets/player.png")
+    self.input        = Input.new({
         up    = { "w", "up" },
         down  = { "s", "down" },
         left  = { "a", "left" },
