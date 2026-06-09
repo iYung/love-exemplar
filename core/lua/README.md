@@ -78,11 +78,24 @@ A self-contained game state. Owns a Drawer and a Camera.
 
 ## SceneManager
 
-Holds the active scene and drives the game loop.
+Holds the active scene and drives the game loop with a fade transition between switches.
 
-- `SceneManager.new()`
-- `switch(scene)` — calls `on_exit()` on the old scene, `on_enter()` on the new one
-- `update(dt)` / `draw()` — delegate to `current`
+- `SceneManager.new(w, h)` — logical resolution for the fade overlay; defaults to `1280, 720`
+- `switch(scene)` — triggers a 0.3 s black-screen fade; calls `on_exit()` on the old scene at peak opacity, `on_enter()` on the new scene immediately
+- `update(dt)` / `draw()` — delegate to `current`; renders the outgoing scene during fade-out
+
+The first `switch()` call (no previous scene) skips the fade and loads instantly.
+
+---
+
+## Fonts
+
+A factory that binds a font file and hinting mode once, then exposes `new(size)` for callers.
+
+- `Fonts.from(path, hinting)` — returns a font factory; `hinting` defaults to `"light"`
+- `factory.new(size)` — calls `love.graphics.newFont(path, size, hinting)`
+
+Avoids scattering `love.graphics.newFont(path, size, hinting)` calls at each call site.
 
 ---
 
