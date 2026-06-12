@@ -24,6 +24,33 @@ love .                  # normal window
 love . --headless       # run tests and exit
 ```
 
+## Web build
+
+```bash
+npm install
+bash scripts/build_web.sh   # outputs to web/
+```
+
+`APP_TITLE` env var overrides the browser tab title (default: `"Love Exemplar"`).
+
+## CI / Cloudflare Pages
+
+Two GitHub Actions workflows are included:
+
+- **`ci.yml`** — runs `love . --headless` on every push and PR
+- **`web.yml`** — builds the web output and deploys to Cloudflare Pages
+
+To activate the web deploy, set these in your GitHub repository settings:
+
+| Type | Name | Value |
+|------|------|-------|
+| Secret | `CLOUDFLARE_API_TOKEN` | your Cloudflare API token |
+| Secret | `CLOUDFLARE_ACCOUNT_ID` | your Cloudflare account ID |
+| Variable | `CLOUDFLARE_PROJECT_NAME` | your Cloudflare Pages project name |
+| Variable | `APP_TITLE` | browser tab title (optional) |
+
+PR previews are deployed automatically and linked in a PR comment. Production deploys on push to `master`.
+
 ## Architecture notes
 
 - **Fixed logical resolution** — game renders to a `1280×720` canvas; `main.lua` scales it to the window with letterboxing. Works with any window size.
