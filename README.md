@@ -40,7 +40,7 @@ Two GitHub Actions workflows are included:
 - **`ci.yml`** — runs `love . --headless` on every push and PR
 - **`web.yml`** — builds the web output and deploys to Cloudflare Pages
 
-To activate the web deploy, set these in your GitHub repository settings:
+To activate the web deploy, see [`docs/setup-cloudflare.md`](docs/setup-cloudflare.md). In short, set these in your GitHub repository settings:
 
 | Type | Name | Value |
 |------|------|-------|
