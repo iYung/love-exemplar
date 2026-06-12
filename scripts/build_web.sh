@@ -16,6 +16,12 @@ npx love.js game.love web/ --title "$APP_TITLE" --compatibility -m 67108864
 echo "Cleaning up game.love..."
 rm game.love
 
+echo "Copying web-template assets..."
+cp web-template/controls.js web/
+
+echo "Injecting controls.js into index.html..."
+sed -i 's|</body>|<script src="controls.js"></script>\n</body>|' web/index.html
+
 # --- SAVES: uncomment the block below if your game uses lua/core/save.lua ---
 # echo "Patching love.js to sync saves to IndexedDB immediately on write..."
 # python3 - <<'PYEOF'
