@@ -1,4 +1,4 @@
-local Camera = require("core/lua/camera")
+local Camera = require("lua/core/camera")
 
 -- Test 1: default dimensions are 1280x720
 do

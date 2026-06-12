@@ -1,6 +1,6 @@
-local Scene  = require("core/lua/scene")
-local Sprite = require("core/lua/sprite")
-local Timer  = require("core/lua/timer")
+local Scene  = require("lua/core/scene")
+local Sprite = require("lua/core/sprite")
+local Timer  = require("lua/core/timer")
 local Player = require("game/player")
 
 local GameScene = {}

@@ -1,5 +1,5 @@
-local Drawer = require("core/lua/drawer")
-local Camera = require("core/lua/camera")
+local Drawer = require("lua/core/drawer")
+local Camera = require("lua/core/camera")
 
 local Scene = {}
 Scene.__index = Scene
