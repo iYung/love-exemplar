@@ -5,8 +5,8 @@ local FADE_DURATION = 0.3
 
 function SceneManager.new(w, h)
     local self        = setmetatable({}, SceneManager)
-    self._W           = w or 1280
-    self._H           = h or 720
+    self._w           = w or 1280
+    self._h           = h or 720
     self.current      = nil
     self._prev        = nil   -- old scene drawn during fade-out
     self._fade_state  = "idle"
@@ -58,7 +58,7 @@ function SceneManager:draw()
 
     if self._fade_alpha > 0 then
         love.graphics.setColor(0, 0, 0, self._fade_alpha)
-        love.graphics.rectangle("fill", 0, 0, self._W, self._H)
+        love.graphics.rectangle("fill", 0, 0, self._w, self._h)
         love.graphics.setColor(1, 1, 1, 1)
     end
 end

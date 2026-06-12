@@ -1,13 +1,13 @@
-local Drawer = require("lua/core/drawer")
-local Camera = require("lua/core/camera")
+local Drawer = require("core/lua/drawer")
+local Camera = require("core/lua/camera")
 
 local Scene = {}
 Scene.__index = Scene
 
-function Scene.new()
+function Scene.new(w, h)
     local self  = setmetatable({}, Scene)
     self.drawer = Drawer.new()
-    self.camera = Camera.new()
+    self.camera = Camera.new(0, 0, w, h)
     return self
 end
 

@@ -54,9 +54,9 @@ Any object with a `draw()` method can be registered, not just Sprites.
 
 ## Camera
 
-Controls what part of the world is visible. Logical resolution: **1280 × 720**.
+Controls what part of the world is visible.
 
-- `Camera.new(x, y)`
+- `Camera.new(x, y, w, h)` — `w`/`h` default to `1280`/`720`
 - `attach()` / `detach()` — push/pop the camera transform around a draw call
 - `follow(target, lerp)` — smooth-track `target.x/y`; `lerp` 0 = instant, 1 = no movement
 - `zoom` — scale factor (default `1.0`)
@@ -67,7 +67,7 @@ Controls what part of the world is visible. Logical resolution: **1280 × 720**.
 
 A self-contained game state. Owns a Drawer and a Camera.
 
-- `Scene.new()` — creates `self.drawer` and `self.camera`
+- `Scene.new(w, h)` — creates `self.drawer` and `Camera.new(0, 0, w, h)`; `w`/`h` default to `1280`/`720`
 - `update(dt)` / `draw()` — override in subclasses
 - `on_enter()` — called when this scene becomes active
 - `on_exit()` — calls `drawer:clear()` by default
