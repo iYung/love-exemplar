@@ -1,5 +1,5 @@
 local HeadlessInput = require("lua/headless/input")
-local SceneManager  = require("core/lua/scene_manager")
+local SceneManager  = require("lua/core/scene_manager")
 
 local runner = {
     -- Set to true before setup() to enable visual mode: tick() yields each

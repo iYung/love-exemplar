@@ -1,16 +1,14 @@
-local Drawer = require("core/lua/drawer")
-local Camera = require("core/lua/camera")
-local Sprite = require("core/lua/sprite")
-local Timer  = require("core/lua/timer")
+local Scene  = require("lua/core/scene")
+local Sprite = require("lua/core/sprite")
+local Timer  = require("lua/core/timer")
 local Player = require("game/player")
 
 local GameScene = {}
 GameScene.__index = GameScene
 
 function GameScene.new()
-    local self  = setmetatable({}, GameScene)
-    self.drawer = Drawer.new()
-    self.camera = Camera.new()
+    local self = Scene.new(1280, 720)
+    setmetatable(self, GameScene)
     return self
 end
 
@@ -32,10 +30,6 @@ function GameScene:on_enter()
     end
 end
 
-function GameScene:on_exit()
-    self.drawer:clear()
-end
-
 function GameScene:update(dt)
     self.player:update(dt)
     self.camera:follow(self.player:centre(), 0.85)
@@ -48,9 +42,7 @@ function GameScene:update(dt)
 end
 
 function GameScene:draw()
-    self.camera:attach()
-    self.drawer:draw()
-    self.camera:detach()
+    Scene.draw(self)
 
     love.graphics.setColor(1, 1, 1, 1)
     love.graphics.print("WASD / Arrow keys to move   ESC to quit", 16, 16)

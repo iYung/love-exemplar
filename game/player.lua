@@ -1,5 +1,5 @@
-local Sprite = require("core/lua/sprite")
-local Input  = require("core/lua/input")
+local Sprite = require("lua/core/sprite")
+local Input  = require("lua/core/input")
 
 local SPEED = 200
 
