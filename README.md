@@ -24,6 +24,21 @@ love .                  # normal window
 love . --headless       # run tests and exit
 ```
 
+## Configuration
+
+Edit `scripts/config.sh` once when forking for a new game:
+
+```bash
+APP_NAME="My Game"               # display name — window title, macOS bundle
+GAME_SLUG="my-game"              # slug used in output filenames
+BUNDLE_ID="com.example.my-game"  # macOS bundle identifier
+ITCH_ACCOUNT="yourname"          # itch.io account slug
+ITCH_GAME="my-game"              # itch.io game slug
+LOVE_VERSION="11.5"
+```
+
+All build and push scripts source this file. Any variable can also be overridden inline: `APP_NAME="..." bash scripts/build_web.sh`.
+
 ## Web build
 
 ```bash
@@ -31,7 +46,25 @@ npm install
 bash scripts/build_web.sh   # outputs to web/
 ```
 
-`APP_TITLE` env var overrides the browser tab title (default: `"Love Exemplar"`).
+## Native builds
+
+Requires: `curl`, `zip`, `unzip`, `python3`, `Pillow` (`pip install Pillow`).
+
+```bash
+bash scripts/build_mac.sh   # → dist/{GAME_SLUG}-mac.zip  (macOS only — uses iconutil)
+bash scripts/build_win.sh   # → dist/{GAME_SLUG}-win.zip
+bash scripts/build_all.sh   # web + mac + win in sequence
+```
+
+LÖVE runtimes are downloaded once and cached in `dist/runtimes/`.
+
+## Publishing to itch.io
+
+Requires [butler](https://itch.io/docs/butler/) and `ITCH_ACCOUNT`/`ITCH_GAME` set in `scripts/config.sh`.
+
+```bash
+bash scripts/push_all.sh    # pushes web/, mac zip, and win zip to itch.io
+```
 
 ## CI / Cloudflare Pages
 
