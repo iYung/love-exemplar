@@ -5,7 +5,9 @@ cd "$(dirname "$0")/.."
 
 export PATH="$HOME/.local/share/mise/shims:$PATH"
 
-APP_TITLE="${APP_TITLE:-Love Exemplar}"
+# shellcheck source=scripts/config.sh
+source scripts/config.sh
+APP_TITLE="${APP_TITLE:-$APP_NAME}"
 
 echo "Zipping game files into game.love..."
 zip -r game.love main.lua conf.lua assets/ core/ game/
