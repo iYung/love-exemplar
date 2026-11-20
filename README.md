@@ -5,17 +5,15 @@ A minimal Love2D project demonstrating clean architecture patterns. Intended as 
 ## Structure
 
 ```
-core/lua/       Engine classes — no game knowledge (Camera, Drawer, Input, Scene,
+lua/core/       Engine classes — no game knowledge (Camera, Drawer, Input, Scene,
                 SceneManager, Sprite, SpriteSet, Timer, Fonts)
-game/           Game-specific code (Player, GameScene)
+lua/game/       Game-specific code (Player, GameScene)
 lua/headless/   Headless test infrastructure (stubs, HeadlessInput, runner)
 tests/          Test files — run with: love . --headless
 assets/         Images and other assets
 conf.lua        Window config; suppresses graphics/audio modules under --headless
 main.lua        Entry point — canvas rendering with letterboxing, pixel-art filter
 ```
-
-See [`core/lua/README.md`](core/lua/README.md) for API docs on each engine class.
 
 ## Running
 
