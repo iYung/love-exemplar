@@ -63,4 +63,32 @@ function SceneManager:draw()
     end
 end
 
+function SceneManager:is_idle()
+    return self._fade_state == "idle"
+end
+
+function SceneManager:mouse_moved(x, y)
+    if self.current and self.current.mouse_moved then
+        self.current:mouse_moved(x, y)
+    end
+end
+
+function SceneManager:mouse_pressed(x, y, b)
+    if self.current and self.current.mouse_pressed then
+        self.current:mouse_pressed(x, y, b)
+    end
+end
+
+function SceneManager:mouse_released(x, y, b)
+    if self.current and self.current.mouse_released then
+        self.current:mouse_released(x, y, b)
+    end
+end
+
+function SceneManager:key_pressed(key)
+    if self.current and self.current.key_pressed then
+        self.current:key_pressed(key)
+    end
+end
+
 return SceneManager

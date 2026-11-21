@@ -53,4 +53,4 @@ PR previews are deployed automatically and linked in a PR comment. Production de
 
 - **Fixed logical resolution** — game renders to a `1280×720` canvas; `main.lua` scales it to the window with letterboxing. Works with any window size.
 - **Scene transitions** — `SceneManager` fades through black (0.3 s) between scene switches.
-- **Headless tests** — `lua/headless/stubs.lua` installs no-op love API replacements so test files run without a window. `HeadlessInput` lets tests script action presses frame-by-frame. See `tests/test_basics.lua` for a minimal example.
+- **Headless tests** — two kinds: unit tests (`tests/*.lua`) and UI specs (`tests/ui/*.lua`). Unit tests run game logic directly; UI specs drive the real scene through key presses and clicks with layout invariants checked every frame. See [`docs/testing.md`](docs/testing.md) for the full guide.
