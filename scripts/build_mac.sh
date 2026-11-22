@@ -25,7 +25,7 @@ unzip -q "$RUNTIME_ZIP" -d "$OUT_DIR"
 mv "${OUT_DIR}/love.app" "$APP_BUNDLE"
 
 echo "Building game.love..."
-zip -q -r "${APP_BUNDLE}/Contents/Resources/game.love" main.lua conf.lua lua/ game/ assets/
+zip -q -r "${APP_BUNDLE}/Contents/Resources/game.love" main.lua conf.lua lua/ assets/
 
 echo "Setting icon..."
 python3 scripts/make_icns.py assets/images/icon.png assets/images/icon.icns

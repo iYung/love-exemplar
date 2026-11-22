@@ -27,7 +27,7 @@ fi
 echo "Building game.love..."
 GAME_LOVE="dist/game.love"
 rm -f "$GAME_LOVE"
-zip -q -r "$GAME_LOVE" main.lua conf.lua lua/ game/ assets/
+zip -q -r "$GAME_LOVE" main.lua conf.lua lua/ assets/
 
 echo "Fusing love.exe + game.love..."
 rm -rf "${OUT_DIR:?}/"*
